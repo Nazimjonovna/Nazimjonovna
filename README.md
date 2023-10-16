@@ -1,4 +1,4 @@
-# GitBeauty
+# Nazimjonovna
 <div align="center">
   <img src="https://profile-counter.glitch.me/Nazimjonovna/count.svg?"  />
 </div>
