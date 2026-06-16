@@ -41,11 +41,11 @@ Python Backend Engineer
 
 - Collaborated on backend modules requiring clean data handling, stable service structure, and deployment-ready implementation.
 
-  ---- SkillHub
+---- SkillHub
 
   Python Backend Engineer
 
-  - Designed and developed backend services for e-commerce projects targeting the US market using Python, Django, and FastAPI.
+ - Designed and developed backend services for e-commerce projects targeting the US market using Python, Django, and FastAPI.
 
 - Built REST APIs for product catalogs, order flows, user management, business-specific backend modules, and administrative workflows.
 
